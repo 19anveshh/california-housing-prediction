@@ -1,2 +1,3 @@
 ## Live Demo
-https://my-email-spam-classifier.streamlit.app/
+https://my-california-housing-prediction.streamlit.app/
+
